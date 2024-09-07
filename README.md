@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankushkumar10
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on some interesting projects
 
 <!---
