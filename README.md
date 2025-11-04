@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ankush
 ## Frontend Developer
 
-I was a bit into Google Cloud Platform for the past few months.
+I have been interested in Google Cloud Platform for the past few months.
 
 🔭 I'm currently working on **Picraft Technolology Pvt. Ltd.**
 
