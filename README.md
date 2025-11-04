@@ -8,7 +8,7 @@ I was a bit into Google Cloud Platform for the past few months.
 ### Connect with me:
 
 <p align="left">
-<a href="https://github.com/ankushkumar10" target="_blank"><img align="center" src="https://www.svgrepo.com/svg/475654/github-color" alt="ankushkumar10" height="30" width="40" /></a>
+<a href="https://github.com/ankushkumar10" target="_blank"><img align="center" src="https://www.svgrepo.com/svg/475654/github-color.svg" alt="ankushkumar10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankushkumar10" target="_blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ankushkumar10" height="30" width="40" /></a>
 <a href="https://instagram.com/ankush_kumar_10" target="_blank"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="ankush_kumar_10" height="30" width="40" /></a>
 </p>
