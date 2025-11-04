@@ -21,7 +21,7 @@ I have been interested in Google Cloud Platform for the past few months.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankushkumar10&show_icons=true&locale=en" alt="ankushkumar10" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumar10" alt="ankushkumar10" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumar10&" alt="ankushkumar10" /></p>
 
 ### LeetCode Stats:
 
