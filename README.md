@@ -9,7 +9,7 @@ I was a bit into Google Cloud Platform for the past few months.
 
 <p align="left">
 <a href="https://github.com/ankushkumar10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankushkumar10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankushkumar10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ankushkumar10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankushkumar10" target="_blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ankushkumar10" height="30" width="40" /></a>
 <a href="https://instagram.com/ankush_kumar_10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankush_kumar_10" height="30" width="40" /></a>
 </p>
 
