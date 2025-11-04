@@ -23,10 +23,6 @@ I was a bit into Google Cloud Platform for the past few months.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumar10&" alt="ankushkumar10" /></p>
 
-### GitHub Trophies:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushkumar10" alt="ankushkumar10" /></a> </p>
-
 ### LeetCode Stats:
 
 <p align="center">
